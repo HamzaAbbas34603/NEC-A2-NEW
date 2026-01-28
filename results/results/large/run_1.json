@@ -1,0 +1,16 @@
+{
+  "dataset": "large",
+  "path": "data/le450_5d.col.b",
+  "V": 450,
+  "E": 9757,
+  "run": 1,
+  "selection": "tournament",
+  "crossover": "one_point",
+  "mutation": "random_reset",
+  "pop_size": 500,
+  "generations_ran": 369,
+  "time_seconds": 547.8600764274597,
+  "best_fitness": 260.0,
+  "best_conflicts": 0,
+  "best_colors_used": 260
+}

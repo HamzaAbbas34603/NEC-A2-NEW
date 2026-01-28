@@ -1,0 +1,16 @@
+{
+  "dataset": "large",
+  "path": "data/le450_5d.col.b",
+  "V": 450,
+  "E": 9757,
+  "run": 4,
+  "selection": "roulette",
+  "crossover": "one_point",
+  "mutation": "random_reset",
+  "pop_size": 500,
+  "generations_ran": 1070,
+  "time_seconds": 1486.8576560020447,
+  "best_fitness": 249.0,
+  "best_conflicts": 0,
+  "best_colors_used": 249
+}
