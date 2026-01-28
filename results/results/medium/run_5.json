@@ -1,0 +1,16 @@
+{
+  "dataset": "medium",
+  "path": "data/queen8_12.col.b",
+  "V": 96,
+  "E": 2736,
+  "run": 5,
+  "selection": "roulette",
+  "crossover": "uniform",
+  "mutation": "random_reset",
+  "pop_size": 500,
+  "generations_ran": 421,
+  "time_seconds": 209.93101501464844,
+  "best_fitness": 45.0,
+  "best_conflicts": 0,
+  "best_colors_used": 45
+}
