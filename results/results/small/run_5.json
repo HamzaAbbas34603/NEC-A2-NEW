@@ -1,0 +1,16 @@
+{
+  "dataset": "small",
+  "path": "data/DSJC1000.1.col.b",
+  "V": 1000,
+  "E": 0,
+  "run": 5,
+  "selection": "roulette",
+  "crossover": "uniform",
+  "mutation": "random_reset",
+  "pop_size": 500,
+  "generations_ran": 1060,
+  "time_seconds": 247.03120183944702,
+  "best_fitness": 551.0,
+  "best_conflicts": 0,
+  "best_colors_used": 551
+}

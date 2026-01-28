@@ -1,0 +1,16 @@
+{
+  "dataset": "small",
+  "path": "data/DSJC1000.1.col.b",
+  "V": 1000,
+  "E": 0,
+  "run": 1,
+  "selection": "tournament",
+  "crossover": "one_point",
+  "mutation": "random_reset",
+  "pop_size": 500,
+  "generations_ran": 571,
+  "time_seconds": 67.9683084487915,
+  "best_fitness": 525.0,
+  "best_conflicts": 0,
+  "best_colors_used": 525
+}
