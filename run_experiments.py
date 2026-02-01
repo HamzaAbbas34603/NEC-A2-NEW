@@ -23,7 +23,7 @@ def save_fitness_plot(history, out_path: str, title: str) -> None:
 
 
 def main():
-    # Put your datasets here (download from CMU COLOR instances, as recommended in the assignment :contentReference[oaicite:1]{index=1})
+    # Put your datasets here(download from CMU COLOR instances, as recommended in the assignment :contentReference[oaicite:1]{index=1})
     datasets = [
         # ("small",  "data/DSJC1000.1.col.b"),
         #  ("medium", "data/queen8_12.col.b"),
