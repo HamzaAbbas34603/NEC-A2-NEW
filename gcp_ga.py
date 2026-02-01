@@ -8,7 +8,7 @@ from typing import List, Tuple, Dict, Optional
 import numpy as np
 
 
-# -----------------------------
+# ----------------------------
 # Graph loading (.col format)
 # -----------------------------
 def load_col_graph(path: str) -> Tuple[int, List[Tuple[int, int]]]:
